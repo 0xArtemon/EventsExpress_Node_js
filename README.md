@@ -1,3 +1,3 @@
 # EventsExpress_Node_js
 EventsExpress project Node.js part
-v1
+v2
